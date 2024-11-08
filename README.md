@@ -4,7 +4,7 @@ Status: Archive (code is provided as-is, no updates expected)
 Code for reproducing results in the paper __A deep learning-based framework for hidden danger detection of transmission lines in complex backgrounds__.
 
 ## Network Architecture
-![pipeline](https://github.com/DearPerpetual/MFPLNet/blob/main/Network%20Architecture.png)
+![pipeline](https://github.com/DearPerpetual/HDDet/blob/main/image.png)
 
 ## Results
 <p align="center">
