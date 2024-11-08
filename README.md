@@ -13,7 +13,10 @@ Code for reproducing results in the paper __A deep learning-based framework for 
 <img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/162.jpg", width="360">
 </p>
 <p align="center">
-<img src="https://github.com/DearPerpetual/MFPLNet/blob/main/work_dirs/out/swin_t_tusimple/20240925_121139_lr_1e-03_b_8/visualization/clips_0530_00000_857.jpg", width="360">
+<img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/58.jpg", width="360">
+</p>
+<p align="center">
+<img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/58.jpg", width="360">
 </p>
 
 
