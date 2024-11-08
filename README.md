@@ -7,13 +7,10 @@ Code for reproducing results in the paper __A deep learning-based framework for 
 ![pipeline](https://github.com/DearPerpetual/HDDet/blob/main/image.png)
 
 ## Results
-<p align="center">
-<img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/1056.jpg", width="360">
 <p>
+<img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/1056.jpg", width="360">
 <img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/162.jpg", width="360">
 <img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/58.jpg", width="360">
-</p>
-<p align="center">
 <img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/84.jpg", width="360">
 </p>
 
