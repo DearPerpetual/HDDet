@@ -16,7 +16,7 @@ Code for reproducing results in the paper __A deep learning-based framework for 
 <img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/58.jpg", width="360">
 </p>
 <p align="center">
-<img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/58.jpg", width="360">
+<img src="https://github.com/DearPerpetual/HDDet/blob/main/runs/detect/exp/84.jpg", width="360">
 </p>
 
 
