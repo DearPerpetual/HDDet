@@ -1,0 +1,8 @@
+/home/tyh/AAAworking/HHDet/data/wave/images/test/58.jpg
+/home/tyh/AAAworking/HHDet/data/wave/images/test/73.jpg
+/home/tyh/AAAworking/HHDet/data/wave/images/test/84.jpg
+/home/tyh/AAAworking/HHDet/data/wave/images/test/162.jpg
+/home/tyh/AAAworking/HHDet/data/wave/images/test/761.jpg
+/home/tyh/AAAworking/HHDet/data/wave/images/test/866.jpg
+/home/tyh/AAAworking/HHDet/data/wave/images/test/1107.jpg
+/home/tyh/AAAworking/HHDet/data/wave/images/test/1056.jpg

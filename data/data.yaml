@@ -1,0 +1,11 @@
+#path: ../data/wave  # 数据集所在路径
+path: /home/tyh/AAAworking/HDDet/data/wave/
+
+test: test.txt  # 数据集路径下的test.txt
+
+# Classes
+names:
+  0: damaged
+  1: bird nest
+  2: Missing hat
+  3: flashover
