@@ -38,7 +38,7 @@ Running on Ubuntu 16.04 system with pytorch.
 
 ### step 2: Download the weight `weights/model.pth` to the root directory.
 
-- Model weights and test results download link：[64ix](https://pan.baidu.com/s/1rFHj47XtQNIj9PRh3_YpVg).
+- Model weights and test results download link：[9mvu](https://pan.baidu.com/s/1CsYcukUt-r0s5ZdDQeRGRg).
 
 ### step 3: Run the following script to obtain detection results in the testing image.
   `python detect.py
