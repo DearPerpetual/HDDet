@@ -36,7 +36,7 @@ Running on Ubuntu 16.04 system with pytorch.
 ## Inference
 ### step 1: Install python packages in requirement.txt.
 
-### step 2: Download the weight `output/model.pth` to the root directory.
+### step 2: Download the weight `weights/model.pth` to the root directory.
 
 - Model weights and test results download link：[64ix](https://pan.baidu.com/s/1rFHj47XtQNIj9PRh3_YpVg).
 
