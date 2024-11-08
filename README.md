@@ -17,17 +17,17 @@ Code for reproducing results in the paper __A deep learning-based framework for 
 
 ## Require
 Please `pip install` the following packages:
-- torch
-- torchvision
-- scikit-learn
-- opencv-python
+- gitpython
+- ipython
+- python
+- matplotlib
 - tqdm
-- imgaug
-- yapf
-- pathspec
-- timm
-- mmcv
-- albumentations
+- torch
+- tensorboard
+- pandas
+- seaborn
+- PyYAML
+- opencv-python
 
 ## Development Environment
 
