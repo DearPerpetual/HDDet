@@ -45,7 +45,7 @@ Running on Ubuntu 16.04 system with pytorch.
   
 - Test results：
 
-![test](https://github.com/DearPerpetual/MFPLNet/blob/main/Val.png)
+![test](https://github.com/DearPerpetual/HDDet/blob/main/TestProcessing.png)
 
 ![000033](https://github.com/DearPerpetual/MFPLNet/blob/main/work_dirs/out/swin_t_tusimple/20240925_121139_lr_1e-03_b_8/visualization/clips_0530_00000_445.jpg)
 
